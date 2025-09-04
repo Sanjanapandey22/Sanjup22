@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sanjup22
+- 👋 Hi, I’m Sanjana Pandey
 - 👀 I’m interested in web development and designing
-- 🌱 I’m currently learning React
+- 🌱 I'm currently learning frontend dev.
 - 💞️ I’m looking to collaborate on frontend proejcts.
 - 📫 How to reach me - sanjanapandey1979@gmail.com
 - 
